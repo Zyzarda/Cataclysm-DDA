@@ -195,7 +195,7 @@
     "price": 750,
     "price_postapoc": 50,
     "material": [ { "type": "water", "portion": 50 }, { "type": "flesh", "portion": 25 }, { "type": "veggy", "portion": 25 } ],
-    "volume": "250 ml",
+    "volume": "500 ml",
     "phase": "liquid",
     "charges": 1,
     "flags": [ "EATEN_HOT", "USE_EAT_VERB" ],
