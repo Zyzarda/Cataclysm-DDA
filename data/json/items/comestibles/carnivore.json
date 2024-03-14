@@ -806,7 +806,7 @@
     "type": "COMESTIBLE",
     "name": { "str_sp": "canned offal" },
     "description": "Cooked organ meat and entrails, preserved by canning.  Unappetizing, but filled with essential vitamins.",
-    "volume": "250 ml",
+    "volume": "500 ml",
     "price_postapoc": "150 cent",
     "parasites": 0,
     "container": "can_medium",
