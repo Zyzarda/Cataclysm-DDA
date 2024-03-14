@@ -690,7 +690,7 @@
     "price": "75 cent",
     "price_postapoc": "75 cent",
     "material": [ "bean" ],
-    "volume": "250 ml",
+    "volume": "500 ml",
     "flags": [ "EATEN_HOT" ],
     "vitamins": [ [ "calcium", 9 ], [ "iron", 24 ] ]
   },
