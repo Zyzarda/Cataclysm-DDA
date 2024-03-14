@@ -82,7 +82,7 @@
     "price": 600,
     "price_postapoc": 350,
     "material": [ "flesh" ],
-    "volume": "250 ml",
+    "volume": "500 ml",
     "vitamins": [ [ "calcium", 2 ], [ "iron", 20 ] ],
     "fun": 1,
     "flags": [ "EATEN_HOT" ]
@@ -633,7 +633,7 @@
     "weight": "56 g",
     "color": "pink",
     "spoils_in": "1 day",
-    "container": "can_medium",
+    "container": "can_food",
     "comestible_type": "FOOD",
     "symbol": "%",
     "quench": -3,
@@ -642,7 +642,7 @@
     "price": "66 cent",
     "price_postapoc": "50 cent",
     "material": [ "flesh" ],
-    "volume": "83 ml",
+    "volume": "250 ml",
     "flags": [ "EATEN_HOT" ],
     "fun": -8,
     "vitamins": [ [ "iron", 3 ] ]
@@ -819,7 +819,7 @@
     "price": "125 cent",
     "price_postapoc": "1 USD",
     "material": [ "flesh", "wheat" ],
-    "volume": "250 ml",
+    "volume": "500 ml",
     "flags": [ "EATEN_HOT" ],
     "vitamins": [ [ "calcium", 5 ], [ "iron", 27 ] ]
   },
@@ -843,7 +843,7 @@
     "price": "145 cent",
     "price_postapoc": "250 cent",
     "material": [ "flesh", "veggy", "bean", "tomato" ],
-    "volume": "250 ml",
+    "volume": "500 ml",
     "flags": [ "EATEN_HOT" ],
     "fun": 5,
     "vitamins": [ [ "vitC", 7 ], [ "calcium", 7 ], [ "iron", 27 ] ]
@@ -864,7 +864,7 @@
     "price": "1 USD",
     "price_postapoc": "150 cent",
     "material": [ "flesh", "bean" ],
-    "volume": "250 ml",
+    "volume": "500 ml",
     "flags": [ "EATEN_HOT" ],
     "fun": 5,
     "vitamins": [ [ "vitC", 0 ], [ "calcium", 14 ], [ "iron", 32 ] ]
@@ -922,7 +922,7 @@
     "price": "2 USD",
     "price_postapoc": "3 USD",
     "material": [ "flesh" ],
-    "volume": "250 ml",
+    "volume": "500 ml",
     "fun": 1,
     "vitamins": [ [ "calcium", 3 ], [ "iron", 18 ] ]
   },
@@ -985,7 +985,7 @@
     "price": "2 USD",
     "price_postapoc": "2 USD",
     "material": [ "flesh", "milk" ],
-    "volume": "250 ml",
+    "volume": "500 ml",
     "flags": [ "EATEN_HOT" ],
     "fun": 6,
     "vitamins": [ [ "vitC", 14 ], [ "calcium", 7 ], [ "iron", 16 ] ]
@@ -1692,7 +1692,7 @@
     "price": "175 cent",
     "price_postapoc": "2 USD",
     "material": [ "flesh", "wheat" ],
-    "volume": "250 ml",
+    "volume": "500 ml",
     "flags": [ "EATEN_HOT" ],
     "fun": 6,
     "vitamins": [ [ "vitC", 3 ], [ "calcium", 2 ], [ "iron", 15 ] ]
