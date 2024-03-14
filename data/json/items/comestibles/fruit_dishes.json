@@ -132,7 +132,7 @@
     "price": "43 cent",
     "price_postapoc": "75 cent",
     "material": [ "fruit" ],
-    "volume": "250 ml",
+    "volume": "500 ml",
     "fun": 7,
     "vitamins": [ [ "vitC", "18900 μg" ], [ "iron", "1 mg" ], [ "calcium", "36900 μg" ] ]
   },
